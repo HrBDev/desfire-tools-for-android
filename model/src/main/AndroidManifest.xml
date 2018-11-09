@@ -1,4 +1,1 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="model.ev1.desfire.skjolber.github.com">
-  
-</manifest>
+<manifest package="model.ev1.desfire.skjolber.github.com" />
